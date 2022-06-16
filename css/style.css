@@ -3,14 +3,21 @@
     padding: 0%;
 }
 
-
-.carousel-item{
-    height: 500px;
+.carousel-inner{
+    height: 700px;
 }
 
-.img-slider{
-    height: 100%;
+.slider-img{
+    height:700px;
 }
 
 
 
+
+.morado {
+    background: rgb(139, 14, 201);
+}
+
+.naranja {
+    background: rgb(247, 169, 44);
+}
