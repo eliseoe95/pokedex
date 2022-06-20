@@ -5,11 +5,8 @@
 
 .carousel-inner{
     height: 700px;
-}
-
-.slider-img{
-    height:700px;
-}
+  
+} 
 
 
 
@@ -20,4 +17,8 @@
 
 .naranja {
     background: rgb(247, 169, 44);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 15744e90e1d600efda518645920465c07cacad63
