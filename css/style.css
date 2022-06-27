@@ -1,27 +1,16 @@
-*{
+* {
     margin: 0%;
     padding: 0%;
 }
-
-.carousel-inner{
+.carousel-inner {
     height: 500px;
 }
-
-.slider-img{
-    height:500px;
+.slider-img {
+    height: 500px;
 }
-
-
-
-
 .morado {
     background: rgb(139, 14, 201);
 }
-
 .naranja {
     background: rgb(247, 169, 44);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 15744e90e1d600efda518645920465c07cacad63
