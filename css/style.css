@@ -3,7 +3,7 @@
     padding: 0%;
 }
 .carousel-inner {
-    height: 500px;
+    height: 400px;
 }
 .slider-img {
     height: 500px;
@@ -13,4 +13,7 @@
 }
 .naranja {
     background: rgb(247, 169, 44);
+}
+.bg-gray {
+    background: rgb(185, 183, 183);
 }
